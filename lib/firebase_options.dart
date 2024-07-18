@@ -53,10 +53,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA-d0eTaKYLYk8kw41jh1WswjTDG98NyII',
-    appId: '1:899200734057:android:9cbf39d565caf872dfa3f8',
-    messagingSenderId: '899200734057',
-    projectId: 'nomnom-auth-592d4',
-    storageBucket: 'nomnom-auth-592d4.appspot.com',
+    apiKey: 'YOUR_API_KEY',
+    appId: 'YOUR_APP_ID',
+    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
+    projectId: 'YOUR_PROJECT_ID',
+    storageBucket: 'YOUR_STORAGE_BUCKET',
   );
 }
