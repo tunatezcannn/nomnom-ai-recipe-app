@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "899200734057",
+    "project_id": "nomnom-auth-592d4",
+    "storage_bucket": "nomnom-auth-592d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899200734057:android:9cbf39d565caf872dfa3f8",
+        "android_client_info": {
+          "package_name": "com.example.nomnom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-d0eTaKYLYk8kw41jh1WswjTDG98NyII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
