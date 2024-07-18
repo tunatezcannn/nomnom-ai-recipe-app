@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class PexelsService {
-  static const String _apiKey = 'vUb8rmhfwmDWlmhkgbZGd17r6hrSHlKgqwo6vcCRQMpkvPxAVkW56lmR';
+  static const String _apiKey = 'YOUR-PEXEL-API-KEY';
   static const String _apiUrl = 'https://api.pexels.com/v1/search';
 
   Future<String?> getImageUrl(String query) async {
