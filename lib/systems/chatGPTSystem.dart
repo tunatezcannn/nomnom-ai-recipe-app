@@ -2,7 +2,7 @@ import 'package:dio/dio.dart';
 
 class ChatGptService {
   final Dio _dio = Dio();
-  final String _apiKey = 'YOUR-API-KEY'; // Replace with your actual API key
+  final String _apiKey = '-API-KEY'; // Replace with your actual API key
   final String _baseUrl = 'https://api.openai.com/v1';
 
   Future<Map<String, dynamic>?> sendGPTMessage(String prompt) async {
